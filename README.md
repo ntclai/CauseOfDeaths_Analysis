@@ -1,4 +1,4 @@
-# EDA on Cause of Deaths around the World (Historical Data) 1990 - 2019 
+## EDA on Cause of Deaths around the World (Historical Data) 1990 - 2019 
 
 - This project analyzes the causes of death in the world 1990 - 2019
 - Find out the historical milestones that caused the number of deaths to skyrocket
